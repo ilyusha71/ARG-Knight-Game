@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e094146e6c288574e8774e5dd2f566fb
+timeCreated: 1523470822
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Airstrike Bold 3D
+  fontNames:
+  - Airstrike Bold 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
